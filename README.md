@@ -5,3 +5,5 @@ Tecnologias : HTML / CSS / JAVASCRIPT
 
 started : 19/11/2021
 done: 
+
+alteracao feita no macOs
