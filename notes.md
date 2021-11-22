@@ -1,4 +1,4 @@
-### This file content notes/types that i get whatching the video XD 
+### This part content notes/types that i get whatching the video XD 
 ### there is some types that is very easy to undertand and aply , but for me is new lol.
 
 
@@ -11,3 +11,21 @@ How to comment a sentece auto ?
 Taking off the space borde in html TABLE 
     -> in css add border-spacing: 0;
     -> this border-spacing works like 'rem' , but just with Vertical and Horizon 
+
+"" In 'display: inline-block' the character is clicked ( if is a href ) while the mouse in over it . ""
+
+
+
+### Ideas/ changes in file
+
+[] change de title logo (bolder,style...)
+
+
+
+
+### Websites tricks 
+
+--> CSS-TRICKS 
+
+https://css-tricks.com/
+
