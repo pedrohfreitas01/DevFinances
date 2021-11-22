@@ -29,3 +29,9 @@ Taking off the space borde in html TABLE
 
 https://css-tricks.com/
 
+
+
+### Where is stoped ?? 
+22nov - 02:32 - 
+[] maratona 1h55 
+[] fix the buttons from the new form 
