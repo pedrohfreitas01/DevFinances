@@ -57,6 +57,7 @@ header{
 #logo{
     color: #ffffff;
     font-weight: 100;
+    margin-bottom: 7rem;
 }
 
 /* MAIN / BALANCE ================================================= PART 02 */
@@ -74,7 +75,7 @@ header{
 /* Links & Buttons ================================== */
 
 a{
-    color: #3dd705;
+    color: #166e6e;
     text-decoration: dashed;
 }
 
