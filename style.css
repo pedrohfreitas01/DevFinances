@@ -218,19 +218,50 @@ form h2{
 
 .input-group.action{
     display: flex;
-    justify-content:  space-between;
+    justify-content:  space-around;
     align-items: center ;
+    margin-top: 2.5rem;
+    
 }
 
 .input-group.action .button,
 .input-group.action button{
-    width: 100% ;
+    width: 50%;
     height: 50px;
     border: none;
     color: white;
     background: green; 
-    border-radius: 1.25rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
 
+.input-group.action button:hover{
+    background: rgb(0, 218, 11);
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+
+.input-group a{
+    color: red;
+    height: 50%;
+    font-size: 1.2rem;
+    display: flex;
+    padding: 1rem;
+    border: 2px solid green;
+    border-radius: 0.25rem;
+
+    align-items: center;
+    justify-content: center;
+
+    opacity: 0.4;
+    
+}
+
+.input-group a:hover{
+    color: black;
+    background: red;
+    opacity: 1;
 }
 /* MODAL ================================================= PART 3 */
 .modal-overlay{
@@ -259,6 +290,8 @@ form h2{
     padding: 2.4rem;
 
 }
+
+
 
 /* FOOTER ================================================= PART 3 */
 
