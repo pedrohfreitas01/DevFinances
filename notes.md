@@ -19,6 +19,7 @@ Taking off the space borde in html TABLE
 ### Ideas/ changes in file
 
 [] change de title logo (bolder,style...)
+[] change the transiction adding "+" in incomes 
 
 
 
@@ -33,5 +34,5 @@ https://css-tricks.com/
 
 ### Where is stoped ?? 
 22nov - 02:32 - 
-[] maratona 1h55 
-[] fix the buttons from the new form 
+[x] maratona 1h55 
+[x] fix the buttons from the new form 
